@@ -19,7 +19,7 @@ android {
 
 
     defaultConfig {
-        applicationId 'hanaa.iti.mylibrary'
+        applicationId "hanaa.iti.mylib"
         minSdkVersion 17
         targetSdkVersion 28
         versionCode 1
