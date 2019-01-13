@@ -8,7 +8,7 @@ buildscript {
     }
 }
 
-apply plugin: 'com.android.application'
+apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
@@ -19,7 +19,7 @@ android {
 
 
     defaultConfig {
-        applicationId "hanaa.iti.mylib"
+     //   applicationId "hanaa.iti.mylib"
         minSdkVersion 17
         targetSdkVersion 28
         versionCode 1

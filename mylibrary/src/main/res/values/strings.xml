@@ -1,3 +1,14 @@
 <resources>
+    <public name="lib_name" type="string"/>
     <string name="lib_name">My Library</string>
+
+    <string name="lib_name2">My Library</string>
+
+    <!--<public/>-->
+    <!--<public name="mylib_app_name" type="string"/>-->
+    <!--<public name="mylib_public_string" type="string"/>-->
+    <!--<public type="string" name="public_string_in_lib2" />-->
+    <!--<string name="public_string_in_lib2">public string in lib2</string>-->
+
+    <!--<string name="private_string_in_lib2">private string in lib2</string>-->
 </resources>
