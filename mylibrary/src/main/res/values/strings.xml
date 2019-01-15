@@ -1,3 +1,8 @@
 <resources>
+    <public name="num" type="string"/>
+    <string name="num">1</string>
     <string name="app_name">My Library</string>
+    <public name="s1" type="string"/>
+    <string name="s1">s1</string>
+    <string name="s2">s2</string>
 </resources>
