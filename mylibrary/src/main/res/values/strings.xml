@@ -5,4 +5,8 @@
     <public name="s1" type="string"/>
     <string name="s1">s1</string>
     <string name="s2">s2</string>
+    <public type="string" name="public_string_in_lib2" />
+    <string name="public_string_in_lib2">public string in lib2</string>
+
+    <string name="private_string_in_lib2">private string in lib2</string>
 </resources>
