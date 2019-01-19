@@ -9,7 +9,7 @@ public class DialogUtil {
     public static void showDialog(Context context, String title, String message ,String positiveMsg, DialogInterface.OnClickListener listener){
         Dialog dialog=new AlertDialog.Builder(context)
                 .setTitle(title)
-                .setMessage(message)
+                .setMessage(R.string.app_name)
                 .setPositiveButton(positiveMsg,listener).create();
         dialog.show();
 

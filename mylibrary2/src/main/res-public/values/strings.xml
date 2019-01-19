@@ -1,0 +1,5 @@
+<resources>
+    <public name="app_name_public" type="string"/>
+    <string name="app_name_public">My Library2</string>
+    <string name="library_name_public">My Library</string>
+</resources>

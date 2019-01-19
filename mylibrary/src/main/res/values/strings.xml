@@ -1,5 +1,5 @@
 <resources>
-    <public name="num" type="string"/>
+    <!--<public name="num" type="string"/>-->
     <string name="num">1</string>
     <string name="app_name">My Library</string>
     <public name="s1" type="string"/>

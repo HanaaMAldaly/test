@@ -1,4 +1,9 @@
 <resources>
+
     <string name="app_name">My Library</string>
     <string name="num">0</string>
+    <string name="a1">0</string>
+    <string name="a2">0</string>
+    <string name="a3">0</string>
+    <string name="a4">0</string>
 </resources>
