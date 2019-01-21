@@ -9,4 +9,5 @@
     <string name="public_string_in_lib2">public string in lib2</string>
 
     <string name="private_string_in_lib2">private string in lib2</string>
+    <string name="hanaa">from my lib1</string>
 </resources>
